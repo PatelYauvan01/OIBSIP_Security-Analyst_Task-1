@@ -1,0 +1,14 @@
+Starting Nmap 7.99 ( https://nmap.org ) at 2026-06-15 19:55 +0530
+Nmap scan report for RTK_GW.bbrouter (192.168.1.1)
+Host is up (0.0089s latency).
+Not shown: 994 closed tcp ports (reset)
+PORT    STATE SERVICE
+21/tcp  open  ftp
+23/tcp  open  telnet
+53/tcp  open  domain
+80/tcp  open  http
+443/tcp open  https
+445/tcp open  microsoft-ds
+MAC Address: 60:31:92:14:15:49 (OVT India pvt)
+
+Nmap done: 1 IP address (1 host up) scanned in 4.12 seconds
